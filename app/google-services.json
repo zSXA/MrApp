@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "435995518173",
+    "firebase_url": "https://test-fcm-9a36e.firebaseio.com",
+    "project_id": "test-fcm-9a36e",
+    "storage_bucket": "test-fcm-9a36e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435995518173:android:2d80aeab33862c2b",
+        "android_client_info": {
+          "package_name": "com.example.ixanov.serega.notiffication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435995518173-cub1lc2c9rbj0dv4bmi2k99ajpfg3ijo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0rzRndrxE_NdP9pUQ5S2UAffdtLaE8OI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435995518173:android:5920de3503a2d18c",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435995518173-cub1lc2c9rbj0dv4bmi2k99ajpfg3ijo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0rzRndrxE_NdP9pUQ5S2UAffdtLaE8OI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435995518173:android:db4766a53863c647",
+        "android_client_info": {
+          "package_name": "mrapp.ixanov.sergey.mrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435995518173-cub1lc2c9rbj0dv4bmi2k99ajpfg3ijo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0rzRndrxE_NdP9pUQ5S2UAffdtLaE8OI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
